@@ -15,7 +15,7 @@ Project_Report.pdf: Detailed report on the methodology, findings, and recommenda
 
 
 ## Results
-3Model Accuracy:
+Model Accuracy:
 Logistic Regression: 84.29%
 Decision Trees: 84.58%
 Random Forest: 84.7%
