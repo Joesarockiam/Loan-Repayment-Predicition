@@ -1,5 +1,5 @@
-#Loan Repayment Prediction System
-#Overview
+#Loan Repayment Prediction System 
+#Overview 
 This project is a Loan Repayment Prediction system developed using Python, with a focus on leveraging Google Colab for development and incorporating comprehensive Exploratory Data Analysis (EDA) and data visualization. The system employs advanced machine learning techniques, including Logistic Regression, Decision Trees, Random Forest, and Artificial Neural Networks, to enhance predictive accuracy.
 
 #Tools Used
@@ -34,3 +34,4 @@ Ongoing optimization opportunities exist, and clear documentation enhances proje
 Implement feature engineering techniques to improve model performance.
 Explore additional machine learning algorithms for comparison.
 Fine-tune hyperparameters for optimal results.
+
